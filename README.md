@@ -16,5 +16,5 @@ Linux, Server administration, Ubuntu.
 - 💼 Work Experience
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=yakubu234&show_icons=true&include_all_commits=true&hide_border=true" alt="Yakubu's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakubu234&langs_count=8&layout=compact&hide_border=true" alt="Yakubu's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=yakubu234&show_icons=true&include_all_commits=true&hide_border=true" alt="Yakubu's GitHub stats" /> | <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakubu234&langs_count=8&layout=compact&hide_border=true" alt="Yakubu's GitHub stats" /> -->|
 | ------------- | ------------- |
