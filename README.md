@@ -12,7 +12,7 @@ Linux, Server administration, Ubuntu.
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning NodeJS Backend Engineering.
 - 💼 Job interests: Software Engineer, Backend Engineer, PHP Laravel, NodeJS.
-- 📫 You can [view my resume](https://drive.google.com/drive/folders/1BuaXBhPhs33RmzU444X229IdEckRaKl9) and contact me by emailing [yakubuabiola2003@gmail.com](mailto:yakubuabiola2003@gmail.com).
+- 📫 You can [view my resume](https://drive.google.com/drive/folders/1BuaXBhPhs33RmzU444X229IdEckRaKl9) and contact me by emailing [yakubu.abiola@yahoo.com](mailto:yakubu.abiola@yahoo.com).
 - 💼 Work Experience
 ---
 
