@@ -7,10 +7,10 @@ Result Oriented Backend Engineer with extensive server-side development knowledg
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 😊 SKILL: PHP, Laravel, CodeIgniter, MariaDB, MySQL, PostgreSQL, Html, CSS, JavaScript, NodeJS, Apache, Nginx,
+- 😊 SKILL: PHP, Laravel, CodeIgniter, MariaDB, MySQL, PostgreSQL, Html, CSS, JavaScript, NodeJS, ExpresJs, TypeScript, AWS, EC2, Apache, Nginx, Websocket
 Linux, Server administration, Ubuntu.
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning NodeJS Backend Engineering.
+- 💡 Fun fact: Graduated from  AltSchool Africa (Backend Engineering: NodeJS) [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🌱 Modestly Improving my Backend Engineering skillset, you can reachout for collaboration.
 - 💼 Job interests: Software Engineer, Backend Engineer, PHP Laravel, NodeJS.
 - 📫 You can [view my resume](https://drive.google.com/drive/folders/1BuaXBhPhs33RmzU444X229IdEckRaKl9) and contact me by emailing [yakubu.abiola@yahoo.com](mailto:yakubu.abiola@yahoo.com).
 - 💼 Work Experience
